@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_dice_exercise/static/css/main.d1b05096.chunk.css",
+    "main.js": "/React_dice_exercise/static/js/main.6a30db0a.chunk.js",
+    "main.js.map": "/React_dice_exercise/static/js/main.6a30db0a.chunk.js.map",
+    "runtime-main.js": "/React_dice_exercise/static/js/runtime-main.004ca4d5.js",
+    "runtime-main.js.map": "/React_dice_exercise/static/js/runtime-main.004ca4d5.js.map",
+    "static/js/2.7cd10d42.chunk.js": "/React_dice_exercise/static/js/2.7cd10d42.chunk.js",
+    "static/js/2.7cd10d42.chunk.js.map": "/React_dice_exercise/static/js/2.7cd10d42.chunk.js.map",
+    "index.html": "/React_dice_exercise/index.html",
+    "precache-manifest.a0070998088d746c8e098410d2f71db2.js": "/React_dice_exercise/precache-manifest.a0070998088d746c8e098410d2f71db2.js",
+    "service-worker.js": "/React_dice_exercise/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/React_dice_exercise/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7cd10d42.chunk.js.LICENSE.txt": "/React_dice_exercise/static/js/2.7cd10d42.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React_dice_exercise/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.004ca4d5.js",
+    "static/js/2.7cd10d42.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6a30db0a.chunk.js"
+  ]
+}
