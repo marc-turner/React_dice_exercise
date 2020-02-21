@@ -1,0 +1,10 @@
+button {
+    width: 150px;
+    height: 30px;
+    display: block;
+    margin: auto;
+}
+
+.RollDice {
+    text-align: center;
+}
